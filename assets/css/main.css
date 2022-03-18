@@ -85,7 +85,7 @@ html {
 }
 
 body {
-	background: rgb(224, 225, 255);
+	background: rgb(190, 228, 229);
 }
 
 body.is-preload *, body.is-preload *:before, body.is-preload *:after {
