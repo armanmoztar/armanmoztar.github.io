@@ -2570,7 +2570,7 @@ input[type="submit"].primary,
 input[type="reset"].primary,
 input[type="button"].primary,
 .button.primary {
-	background-color: #49bf9d;
+	background-color: #4996bf;
 	border-color: #49bf9d;
 	color: #ffffff !important;
 }
@@ -2646,7 +2646,7 @@ input[type="button"]:disabled,
 	justify-content: space-between;
 	background-color: #000000;
 	background-attachment: scroll, scroll;
-	background-image: url("images/overlay.png"), url("../../images/bg2.jpg");
+	background-image: url("images/overlay.png"), url("../../images/bg2-dark.jpg");
 	background-position: top left, top left;
 	background-repeat: repeat, repeat;
 	background-size: auto, 300%;
